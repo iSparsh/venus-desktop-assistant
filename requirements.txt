@@ -1,0 +1,9 @@
+selenium
+requests
+os
+pyttsx3
+pyaudio
+speech_recognition
+randfacts
+random
+datetime
